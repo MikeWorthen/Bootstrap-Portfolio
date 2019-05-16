@@ -1,0 +1,20 @@
+.navbar-brand {
+   margin-left: 240px;
+   background-color: #4aaaa5;
+   padding-right: 20px;
+   padding-left: 20px;
+}
+
+.container {
+   width: 960px;
+}
+
+#mike {
+   height: 40%;
+   width: 40%;
+   padding-right: 30px;
+   padding-bottom: 10px;
+   padding-top: 15px;
+   padding-left: 5%;
+   align-content: left;
+}
