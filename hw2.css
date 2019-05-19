@@ -16,6 +16,10 @@ body {
   
 }
 
+#copy {
+   color: lightgray;
+}
+
 h2 {
    color: white;
 }
